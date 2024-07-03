@@ -5,11 +5,11 @@ import Filter from "./components/food_delivery/filter/Filter";
 function App() {
   return (
     <>
-      {/* <Header/>
+      <Header/>
       <Catergory/>
       <Top_res/>
-      <Food_del/> */}
-      <Filter/>
+      <Food_del/>
+      {/* <Filter/> */}
     </>
   );
 }
